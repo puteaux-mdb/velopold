@@ -1,13 +1,13 @@
 {
   "revName": {
-    "plural": "Voies Lyonnaises",
-    "singular": "Voie Lyonnaise",
+    "plural": "Voies Paris Ouest La Defense",
+    "singular": "Voie Paris Ouest La Defense",
     "abbreviated": "VL"
   },
-  "assoName": "La Ville à Vélo",
-  "assoLink": "https://lavilleavelo.org",
-  "slug": "voie-lyonnaise",
-  "center": [4.878973368615107, 45.746703113094895],
+  "assoName": "Puteaux à Vélo",
+  "assoLink": "https://mdb-idf.org/puteaux/",
+  "slug": "voie-POLD",
+  "center": [2.22130, 48.87634],
   "bounds": [
     [4.2, 45.4],
     [5.5, 46.1]

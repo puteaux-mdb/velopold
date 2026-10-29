@@ -1,5 +1,5 @@
 ---
-name: Voie Lyonnaise 12
+name: Voie Lyonnaise 12A
 line: 12
 from: Valmy
 to: Bron

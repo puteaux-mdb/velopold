@@ -6,7 +6,7 @@
       "properties": {
         "type": "perspective",
         "name": "Rue du Sergent Berthet",
-        "line": 12,
+        "line": "RD1",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl12/rue-sergent-berthet.png"
       },
       "geometry": {
@@ -19,7 +19,7 @@
       "properties": {
         "type": "perspective",
         "name": "Rue de Trion",
-        "line": 12,
+        "line": "RD1",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl12/rue-de-trion.png"
       },
       "geometry": {
@@ -32,7 +32,7 @@
       "properties": {
         "type": "perspective",
         "name": "Place Bellecour",
-        "line": 12,
+        "line": "RD1",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl12/place-bellecour.png"
       },
       "geometry": {
@@ -45,7 +45,7 @@
       "properties": {
         "type": "perspective",
         "name": "Place Gabriel Peri",
-        "line": 12,
+        "line": "RD1",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl12/place-gabriel-peri.png"
       },
       "geometry": {
@@ -58,7 +58,7 @@
       "properties": {
         "type": "perspective",
         "name": "Cours Gambetta",
-        "line": 12,
+        "line": "RD1",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl12/cours-gambetta.png"
       },
       "geometry": {
@@ -71,7 +71,7 @@
       "properties": {
         "type": "perspective",
         "name": "Avenue Rockefeller",
-        "line": 12,
+        "line": "RD1",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl12/av-rockfeller.png",
         "panoramaxUrl": "https://api.panoramax.xyz/?focus=pic&map=20.14/45.7392803/4.8915835&pic=a7f0bf43-a87b-4567-ab3a-b158b5e6fd84&xyz=280.22/-5.59/4&seq=e45959af-2d6f-4eb2-9f8c-ced568462e2c"
       },
@@ -85,7 +85,7 @@
       "properties": {
         "type": "perspective",
         "name": "Avenue Franklin Roosevelt",
-        "line": 12,
+        "line": "RD1",
         "imgUrl": "https://cyclopolis.lavilleavelo.org/vl12/av-franklin-roosevelt.png"
       },
       "geometry": {
@@ -136,7 +136,7 @@
       "type": "Feature",
       "properties": {
         "id": "PlaceValmy-commun",
-        "line": 12,
+        "line": "RD1",
         "name": "Place Valmy",
         "status": "postponed",
         "type": "aucun",
@@ -154,7 +154,7 @@
     {
       "type": "Feature",
       "properties": {
-        "line": 12,
+        "line": "RD1",
         "name": "Rue du Sergent Berthet",
         "status": "postponed",
         "type": "aucun",
@@ -180,7 +180,7 @@
     {
       "type": "Feature",
       "properties": {
-        "line": 12,
+        "line": "RD1",
         "name": "Rue Pierre Audry Nord",
         "status": "done",
         "doneAt": "01/04/2022",
@@ -208,7 +208,7 @@
       "type": "Feature",
       "properties": {
         "id": "Audry-commun",
-        "line": 12,
+        "line": "RD1",
         "name": "Rue Pierre Audry Sud",
         "status": "done",
         "doneAt": "01/04/2022",
@@ -239,7 +239,7 @@
       "type": "Feature",
       "properties": {
         "id": "BuyerEst-commun",
-        "line": 12,
+        "line": "RD1",
         "name": "Trion - Quatre Colonnes",
         "status": "postponed",
         "type": "aucun",
@@ -266,7 +266,7 @@
       "type": "Feature",
       "properties": {
         "id": "StJust-commun",
-        "line": 12,
+        "line": "RD1",
         "name": "Saint-Just",
         "status": "postponed",
         "type": "aucun",
@@ -305,7 +305,7 @@
       "type": "Feature",
       "properties": {
         "id": "ChNeuf-commun",
-        "line": 12,
+        "line": "RD1",
         "name": "Montée du Chemin Neuf",
         "status": "done",
         "doneAt": "20/08/2024",
@@ -367,7 +367,7 @@
       "type": "Feature",
       "properties": {
         "id": "StJean-commun",
-        "line": 12,
+        "line": "RD1",
         "name": "Saint-Jean",
         "status": "done",
         "doneAt": "30/11/2000",
@@ -393,7 +393,7 @@
       "type": "Feature",
       "properties": {
         "id": "AdolpheMax-commun",
-        "line": 12,
+        "line": "RD1",
         "name": "Avenue Adolphe Max",
         "status": "done",
         "doneAt": "18/12/2025",
@@ -414,7 +414,7 @@
       "type": "Feature",
       "properties": {
         "id": "Bonaparte-commun",
-        "line": 12,
+        "line": "RD1",
         "name": "Pont Bonaparte - Chambonnet",
         "status": "done",
         "doneAt": "04/07/2025",
@@ -435,7 +435,7 @@
       "type": "Feature",
       "properties": {
         "id": "Presquile-commun",
-        "line": 12,
+        "line": "RD1",
         "name": "Traversée Presqu'île (par Bellecour)",
         "status": "postponed",
         "type": "voie-bus",
@@ -454,7 +454,7 @@
     {
       "type": "Feature",
       "properties": {
-        "line": 12,
+        "line": "RD1",
         "name": "Pont de la Guillotière",
         "status": "postponed",
         "type": "bandes-cyclables",
@@ -473,7 +473,7 @@
     {
       "type": "Feature",
       "properties": {
-        "line": 12,
+        "line": "RD1",
         "name": "Cours Gambetta",
         "status": "postponed",
         "type": "voie-bus",
@@ -496,7 +496,7 @@
     {
       "type": "Feature",
       "properties": {
-        "line": 12,
+        "line": "RD1",
         "name": "Cours Albert Thomas",
         "status": "postponed",
         "type": "voie-bus",
@@ -522,7 +522,7 @@
     {
       "type": "Feature",
       "properties": {
-        "line": 12,
+        "line": "RD1",
         "name": "Place d'Arsonval",
         "status": "postponed",
         "type": "voie-bus",
@@ -545,7 +545,7 @@
     {
       "type": "Feature",
       "properties": {
-        "line": 12,
+        "line": "RD1",
         "name": "Avenue Rockefeller Ouest",
         "status": "done",
         "doneAt": "03/10/2025",
@@ -568,7 +568,7 @@
     {
       "type": "Feature",
       "properties": {
-        "line": 12,
+        "line": "RD1",
         "name": "Avenue Rockefeller Est",
         "status": "done",
         "doneAt": "19/12/2025",
@@ -588,7 +588,7 @@
     {
       "type": "Feature",
       "properties": {
-        "line": 12,
+        "line": "RD1",
         "name": "Avenue Franklin Roosevelt",
         "status": "done",
         "doneAt": "30/11/2000",
@@ -616,7 +616,7 @@
     {
       "type": "Feature",
       "properties": {
-        "line": 12,
+        "line": "RD1",
         "name": "Bron - Boutasse",
         "status": "postponed",
         "type": "aucun",
